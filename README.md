@@ -1,4 +1,4 @@
-Frontend deployment Link:
+Frontend deployment Link:https://career-fair-guvi.netlify.app
 
 
 Backend deployment Link:https://career-fair-backend-1acf.onrender.com
