@@ -1,8 +1,7 @@
-// import "./sb-admin-2.min.css";
 import "./App.css";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Topbar from "./Components/TopBar";
+
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Products from "./Components/Products";
 import PortalLayout from "./Components/PortalLayout";

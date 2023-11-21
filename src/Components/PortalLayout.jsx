@@ -1,13 +1,12 @@
-import React from "react";
 import { Outlet } from "react-router-dom";
-import Topbar from "./Topbar";
+import TopBar from "./TopBar";
 
 function PortalLayout() {
   return (
     <div id="wrapper">
       <div id="content-wrapper" className="d-flex flex-column">
         <div id="content">
-          <Topbar />
+          <TopBar />
           <Outlet />
         </div>
       </div>
